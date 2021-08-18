@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amikhaylin
-- 👀 I’m interested in iOS development (indie and freelancing)
+- 👀 I’m interested in iOS development (indie and freelance)
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/amikhaylin/) and [Twitter](https://twitter.com/cenobith)
 
